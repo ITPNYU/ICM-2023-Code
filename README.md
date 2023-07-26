@@ -28,7 +28,7 @@ The following is an overview of how we will be spending class time over the next
 
 ## Extra Help
 - [Research Resident Office Hours](https://itp.nyu.edu/help/office-hours/)
-- ICM Help Sessions: Mon 12.30-2pm (conference room), Tues 1-2.30pm ([zoom id](https://nyu.zoom.us/my/jeeyoon)), Thurs 12.30-2pm (outside conference room)
+- ICM Help Sessions: TBD
 - [Coding Lab](https://codinglab.itp.io/) for drop-in help
 
 ## Inspiration
