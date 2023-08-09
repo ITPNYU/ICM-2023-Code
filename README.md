@@ -102,7 +102,7 @@ Mantras By James
 
 Previous Years
 --------------
-- [2022](https://github.com/ITPNYU/ICM-2021-Code/)
+- [2022](https://github.com/ITPNYU/ICM-2022-Code/)
 - [2021](https://github.com/ITPNYU/ICM-2021-Code/)
 - [2020](https://github.com/ITPNYU/ICM-2020-Code/)
 - [2019](https://github.com/ITPNYU/ICM-2019-Code/)
