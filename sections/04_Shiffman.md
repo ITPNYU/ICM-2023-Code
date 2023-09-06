@@ -1,10 +1,10 @@
 ## Information
 
-* Dan Shiffman, daniel.shiffman@nyu.edu
-* Time: Wednesday 12:10PM-2:40PM EST
-* Location: 410
-* [Homework Wiki](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Dan-‐-Wednesdayd)
-* office hours: (see calendar link provided by email)
+- Dan Shiffman, daniel.shiffman@nyu.edu
+- Time: Wednesday 12:10PM-2:40PM EST
+- Location: 410
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Dan-‐-Wednesdayd)
+- office hours: (see calendar link provided by email)
 
 ## Dates
 
