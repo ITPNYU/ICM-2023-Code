@@ -15,7 +15,7 @@ The following is an overview of how we will be spending class time over the next
 * 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-MimiY-01)
 * 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-John-Henry-02)
 * 03 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Ellen)
-* 04 [Shiffman](sections/04_Shiffman.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Shiffman-04)
+* 04 [Shiffman](sections/04_Shiffman.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Dan-%E2%80%90-Wednesday)
 * 05 [Sam](sections/05_Sam.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Sam-05)
 * 06 [Mimi](sections/06_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-MimiY-06)
 * 07 [Shiffman](sections/07_Shiffman.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Shiffman-07)
