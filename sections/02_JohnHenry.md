@@ -5,7 +5,7 @@
 - Time: Monday 3:20PM - 5:50PM EST
 - Location: 370 Jay St, Room 409 Loc: Brooklyn Campus
 - [Homework Wiki](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-John-Henry-02)
-- [Office Hours]()
+- [Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
 ## Dates
 
