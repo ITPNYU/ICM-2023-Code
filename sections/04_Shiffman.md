@@ -13,5 +13,5 @@
 3. Wednesday, September 20
 4. Wednesday, September 27
 5. Wednesday, October 4
-6. Wednesday, October 18
-7. Wednesday, October 25
+6. Wednesday, October 11
+7. Wednesday, October 18
