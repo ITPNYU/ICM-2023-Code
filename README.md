@@ -126,3 +126,7 @@ Laptops will be an essential part of the course and may be used in class during 
 - [2009](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F09)
 - [2008](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F08)
 - [2007](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F07)
+
+## Next 
+
+- [Media 2023](https://github.com/ITPNYU/ICM-2023-Media)
