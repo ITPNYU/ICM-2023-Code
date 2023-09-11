@@ -13,6 +13,6 @@
 2. Monday, September 18
 3. Monday, September 25
 4. Monday, October 2
-5. Monday, October 10
+5. Tuesday, October 10
 6. Monday, October 16
 7. Monday, October 23
