@@ -34,6 +34,6 @@ _The videos in this section were created using a different editor for p5.js. All
 
 ## Going Further
 
-- [clock](https://editor.p5js.org/icm/sketches/ryYueiWu7) -- [Clock coding challenge video](https://youtu.be/E4RyStef-gY)
+- [p5.js clock](https://editor.p5js.org/icm/sketches/ryYueiWu7) -- [Clock coding challenge video](https://thecodingtrain.com/challenges/74-clock), also [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
 - Tutorial: [Recode Catalog by John Whitney](https://github.com/itpresidents/icm-help-sessions-2020/blob/master/session-02/session-02.md)
 - [Rainbow Paintbrush in p5.js](https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25) by Kelly Lougheed
