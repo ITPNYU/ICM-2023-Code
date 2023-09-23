@@ -6,9 +6,9 @@
 * [Introduction to Conditional Statements](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/1-conditionals)
   * `if` statement
   * relational operators (`>`, `<`, `<=`, `>=`, `==`, `===`, `!==`)
-* [3.2: Bouncing Ball](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/2-bouncing) | [Sketch](https://editor.p5js.org/icm/sketches/BJKWv5Tn)
-* [3.3: `else`, `else if`, AND (`&&`), OR (`||`)](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/3-else-if-and-or)
-* [3.4: Boolean Variables](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/4-boolean)
+* [Bouncing Ball](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/2-bouncing) | [Sketch](https://editor.p5js.org/icm/sketches/BJKWv5Tn)
+* [`else`, `else if`, AND (`&&`), OR (`||`)](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/3-else-if-and-or)
+* [Boolean Variables](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/4-boolean)
 
 
 ## Getting Started with p5.js book
