@@ -3,13 +3,12 @@
 *The videos in this section were created using a different editor for p5.js. All of the concepts should still apply, however, there are some minor changes. Most notably in JavaScript `let` is now the preferred way to declare a variable over `var`. If you would like to learn more about this you can [watch this video about let vs var](https://youtu.be/q8SHaDQdul0).*
 
 ## Video Tutorials
-* [3.1: Introduction to Conditional Statements](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
+* [Introduction to Conditional Statements](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/1-conditionals)
   * `if` statement
   * relational operators (`>`, `<`, `<=`, `>=`, `==`, `===`, `!==`)
-* [3.2: Bouncing Ball](https://www.youtube.com/watch?v=LO3Awjn_gyU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11) | [Sketch](https://editor.p5js.org/icm/sketches/BJKWv5Tn)
-* [3.3: `else`, `else if`, AND (`&&`), OR (`||`)](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
-* [3.4: Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
-* Code Examples for Videos: [3.1-3.4](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
+* [3.2: Bouncing Ball](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/2-bouncing) | [Sketch](https://editor.p5js.org/icm/sketches/BJKWv5Tn)
+* [3.3: `else`, `else if`, AND (`&&`), OR (`||`)](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/3-else-if-and-or)
+* [3.4: Boolean Variables](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/4-boolean)
 
 
 ## Getting Started with p5.js book
